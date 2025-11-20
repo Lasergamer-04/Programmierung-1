@@ -1,2 +1,3 @@
 # Java_tests
-some tiny Java programms, just to exercise myself
+Some small Java programms from the Uni course. 
+i will add the Final Project of this course also to this repo
